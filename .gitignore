@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+.env
+venv/
+
+# Large data files
+*.csv
+*.pkl
+*.pth
+*.h5
+
+# Claude
+.claude/
+
+# API keys (secrets)
+api/
